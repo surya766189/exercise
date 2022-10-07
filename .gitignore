@@ -1,0 +1,4 @@
+*.log
+/new folder/
+statics/new folder
+db.accdb
